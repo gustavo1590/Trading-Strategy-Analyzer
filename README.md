@@ -17,14 +17,12 @@ Acesse em : [https://github.com/gustavo1590/Trading-Strategy-Analyzer](https://g
 
 ⚠️ This is an educational project. It does not constitute financial advice.
 
-✅ Connects to the official Binance API (api.binance.com/api/v3/klines).
-✅ Retrieves real historical OHLCV data (Open, High, Low, Close, Volume).
-✅ Supports all trading pairs (BTC/USDT, ETH/USDT, etc.).
-✅ Uses all available timeframes (1m, 5m, 15m, 1h, 4h, 1d).
-
-✅ Includes automatic fallback to simulated data in case the API fails.
-
-✅ Does not require an API key (uses public endpoints).
+✅ Connects to the official Binance API (api.binance.com/api/v3/klines).                                                                                          
+✅ Retrieves real historical OHLCV data (Open, High, Low, Close, Volume).                                                                                                 
+✅ Supports all trading pairs (BTC/USDT, ETH/USDT, etc.).                                                                                                         
+✅ Uses all available timeframes (1m, 5m, 15m, 1h, 4h, 1d).                                                                                                                  
+✅ Includes automatic fallback to simulated data in case the API fails.                                                                                                   
+✅ Does not require an API key (uses public endpoints).                                                                                                                                
 
 Backtesting works with real market data from Binance! 🚀📊
 
