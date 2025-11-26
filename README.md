@@ -2,12 +2,12 @@
 
 ⚠️ Este é um projeto educacional. Não constitui aconselhamento financeiro.
 
-/n✅ Conecta com a API oficial da Binance (api.binance.com/api/v3/klines).
-/n✅ Busca dados históricos reais de OHLCV (Open, High, Low, Close, Volume).
-/n✅ Suporta todos os pares de trading (BTC/USDT, ETH/USDT, etc.).
-/n✅ Usa todos os intervalos disponíveis (1m, 5m, 15m, 1h, 4h, 1d).
-/n✅ Inclui fallback automático para dados simulados caso a API falhe.
-/n✅ Não requer API key (usa endpoints públicos).
+✅ Conecta com a API oficial da Binance (api.binance.com/api/v3/klines).                                                                                                                                          
+✅ Busca dados históricos reais de OHLCV (Open, High, Low, Close, Volume).                                                                                                      
+✅ Suporta todos os pares de trading (BTC/USDT, ETH/USDT, etc.).                                                                                                             
+✅ Usa todos os intervalos disponíveis (1m, 5m, 15m, 1h, 4h, 1d).                                                                                                                    
+✅ Inclui fallback automático para dados simulados caso a API falhe.                                                                                              
+✅ Não requer API key (usa endpoints públicos).                                                                                                                                          
 
 O backtesting funciona com dados reais de mercado da Binance! 🚀📊
 
